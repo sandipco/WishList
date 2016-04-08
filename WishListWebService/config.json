@@ -1,0 +1,5 @@
+﻿{
+  "Data": {
+    "WishListConnection": "Server=(localdb)\\ProjectsV12;Database=dbWishlist;Trusted_Connection=true;MultipleActiveResultSets=true"
+  }
+}
